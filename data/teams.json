@@ -1,0 +1,62 @@
+[
+  {
+    "id": "CHE",
+    "name": "Chennai",
+    "primary_color": "#FFFF00",
+    "secondary_color": "#0081E9"
+  },
+  {
+    "id": "MUM",
+    "name": "Mumbai",
+    "primary_color": "#004BA0",
+    "secondary_color": "#D1AB3E"
+  },
+  {
+    "id": "KOL",
+    "name": "Kolkata",
+    "primary_color": "#3A225D",
+    "secondary_color": "#F7E02F"
+  },
+  {
+    "id": "BLR",
+    "name": "Bangalore",
+    "primary_color": "#EC1C24",
+    "secondary_color": "#2B2A29"
+  },
+  {
+    "id": "HYD",
+    "name": "Hyderabad",
+    "primary_color": "#FF8228",
+    "secondary_color": "#000000"
+  },
+  {
+    "id": "DEL",
+    "name": "Delhi",
+    "primary_color": "#131C55",
+    "secondary_color": "#EF1B23"
+  },
+  {
+    "id": "RAJ",
+    "name": "Rajasthan",
+    "primary_color": "#EA1A85",
+    "secondary_color": "#2D3E8B"
+  },
+  {
+    "id": "PUN",
+    "name": "Punjab",
+    "primary_color": "#D71920",
+    "secondary_color": "#D1D1D1"
+  },
+  {
+    "id": "LKN",
+    "name": "Lucknow",
+    "primary_color": "#0057E2",
+    "secondary_color": "#00D2FF"
+  },
+  {
+    "id": "GUJ",
+    "name": "Gujarat",
+    "primary_color": "#0B2135",
+    "secondary_color": "#CBA92B"
+  }
+]
