@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Rajat Patidar",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 82,
+    "bowling": 30,
+    "fielding": 78
+  },
+  {
+    "name": "Phil Salt",
+    "nationality": "England",
+    "role": "WK",
+    "batting": 83,
+    "bowling": 15,
+    "fielding": 82
+  },
+  {
+    "name": "Jitesh Sharma",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 77,
+    "bowling": 10,
+    "fielding": 80
+  },
+  {
+    "name": "Jordan Cox",
+    "nationality": "England",
+    "role": "WK",
+    "batting": 58,
+    "bowling": 10,
+    "fielding": 72
+  },
+  {
+    "name": "Virat Kohli",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 94,
+    "bowling": 25,
+    "fielding": 88
+  },
+  {
+    "name": "Tim David",
+    "nationality": "Australia",
+    "role": "BAT",
+    "batting": 78,
+    "bowling": 20,
+    "fielding": 70
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 76,
+    "bowling": 25,
+    "fielding": 75
+  },
+  {
+    "name": "Venkatesh Iyer",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 78,
+    "bowling": 50,
+    "fielding": 72
+  },
+  {
+    "name": "Krunal Pandya",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 72,
+    "bowling": 78,
+    "fielding": 75
+  },
+  {
+    "name": "Jacob Bethell",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 70,
+    "bowling": 55,
+    "fielding": 72
+  },
+  {
+    "name": "Romario Shepherd",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 72,
+    "fielding": 68
+  },
+  {
+    "name": "Swapnil Singh",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 45,
+    "bowling": 70,
+    "fielding": 65
+  },
+  {
+    "name": "Mangesh Yadav",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 40,
+    "bowling": 72,
+    "fielding": 62
+  },
+  {
+    "name": "Vihaan Malhotra",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 32,
+    "bowling": 52,
+    "fielding": 56
+  },
+  {
+    "name": "Vicky Ostwal",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 30,
+    "bowling": 62,
+    "fielding": 58
+  },
+  {
+    "name": "Kanishk Chouhan",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 30,
+    "bowling": 55,
+    "fielding": 58
+  },
+  {
+    "name": "Satwik Deswal",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 28,
+    "bowling": 58,
+    "fielding": 55
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 40,
+    "bowling": 86,
+    "fielding": 72
+  },
+  {
+    "name": "Josh Hazlewood",
+    "nationality": "Australia",
+    "role": "BOWL",
+    "batting": 30,
+    "bowling": 90,
+    "fielding": 75
+  },
+  {
+    "name": "Jacob Duffy",
+    "nationality": "New Zealand",
+    "role": "BOWL",
+    "batting": 28,
+    "bowling": 75,
+    "fielding": 68
+  },
+  {
+    "name": "Yash Dayal",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 76,
+    "fielding": 65
+  },
+  {
+    "name": "Suyash Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 22,
+    "bowling": 72,
+    "fielding": 62
+  },
+  {
+    "name": "Rasikh Salam",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 70,
+    "fielding": 62
+  },
+  {
+    "name": "Nuwan Thushara",
+    "nationality": "Sri Lanka",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 73,
+    "fielding": 60
+  },
+  {
+    "name": "Abhinandan Singh",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 62,
+    "fielding": 58
+  }
+]

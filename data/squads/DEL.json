@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Axar Patel",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 70,
+    "bowling": 82,
+    "fielding": 78
+  },
+  {
+    "name": "KL Rahul",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 88,
+    "bowling": 10,
+    "fielding": 85
+  },
+  {
+    "name": "Tristan Stubbs",
+    "nationality": "South Africa",
+    "role": "WK",
+    "batting": 75,
+    "bowling": 15,
+    "fielding": 78
+  },
+  {
+    "name": "Abishek Porel",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 68,
+    "bowling": 10,
+    "fielding": 75
+  },
+  {
+    "name": "David Miller",
+    "nationality": "South Africa",
+    "role": "BAT",
+    "batting": 80,
+    "bowling": 15,
+    "fielding": 78
+  },
+  {
+    "name": "Ben Duckett",
+    "nationality": "England",
+    "role": "BAT",
+    "batting": 76,
+    "bowling": 15,
+    "fielding": 72
+  },
+  {
+    "name": "Nitish Rana",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 75,
+    "bowling": 35,
+    "fielding": 70
+  },
+  {
+    "name": "Pathum Nissanka",
+    "nationality": "Sri Lanka",
+    "role": "BAT",
+    "batting": 75,
+    "bowling": 10,
+    "fielding": 72
+  },
+  {
+    "name": "Karun Nair",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 74,
+    "bowling": 15,
+    "fielding": 72
+  },
+  {
+    "name": "Prithvi Shaw",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 72,
+    "bowling": 15,
+    "fielding": 65
+  },
+  {
+    "name": "Sameer Rizvi",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 58,
+    "bowling": 20,
+    "fielding": 62
+  },
+  {
+    "name": "Tripurana Vijay",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 48,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Madhav Tiwari",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 45,
+    "bowling": 10,
+    "fielding": 52
+  },
+  {
+    "name": "Ashutosh Sharma",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 45,
+    "fielding": 62
+  },
+  {
+    "name": "Auqib Nabi",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 45,
+    "bowling": 72,
+    "fielding": 60
+  },
+  {
+    "name": "Kyle Jamieson",
+    "nationality": "New Zealand",
+    "role": "AR",
+    "batting": 45,
+    "bowling": 78,
+    "fielding": 68
+  },
+  {
+    "name": "Vipraj Nigam",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 42,
+    "bowling": 50,
+    "fielding": 55
+  },
+  {
+    "name": "Ajay Mandal",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 38,
+    "bowling": 48,
+    "fielding": 52
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 30,
+    "bowling": 86,
+    "fielding": 65
+  },
+  {
+    "name": "Mitchell Starc",
+    "nationality": "Australia",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 92,
+    "fielding": 70
+  },
+  {
+    "name": "T Natarajan",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 80,
+    "fielding": 62
+  },
+  {
+    "name": "Lungi Ngidi",
+    "nationality": "South Africa",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 82,
+    "fielding": 65
+  },
+  {
+    "name": "Mukesh Kumar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 74,
+    "fielding": 60
+  },
+  {
+    "name": "Dushmantha Chameera",
+    "nationality": "Sri Lanka",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 75,
+    "fielding": 58
+  },
+  {
+    "name": "Sahil Parakh",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 55,
+    "fielding": 50
+  }
+]

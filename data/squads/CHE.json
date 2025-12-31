@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ruturaj Gaikwad",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 88,
+    "bowling": 25,
+    "fielding": 80
+  },
+  {
+    "name": "Sanju Samson",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 85,
+    "bowling": 10,
+    "fielding": 82
+  },
+  {
+    "name": "MS Dhoni",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 78,
+    "bowling": 15,
+    "fielding": 85
+  },
+  {
+    "name": "Urvil Patel",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 72,
+    "bowling": 10,
+    "fielding": 74
+  },
+  {
+    "name": "Kartik Sharma",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 68,
+    "bowling": 10,
+    "fielding": 75
+  },
+  {
+    "name": "Dewald Brevis",
+    "nationality": "South Africa",
+    "role": "BAT",
+    "batting": 75,
+    "bowling": 35,
+    "fielding": 70
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 72,
+    "bowling": 30,
+    "fielding": 68
+  },
+  {
+    "name": "Matthew Short",
+    "nationality": "Australia",
+    "role": "BAT",
+    "batting": 70,
+    "bowling": 45,
+    "fielding": 72
+  },
+  {
+    "name": "Shivam Dube",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 80,
+    "bowling": 55,
+    "fielding": 72
+  },
+  {
+    "name": "Ayush Mhatre",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 70,
+    "bowling": 40,
+    "fielding": 68
+  },
+  {
+    "name": "Prashant Veer",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 65,
+    "bowling": 68,
+    "fielding": 65
+  },
+  {
+    "name": "Jamie Overton",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 78,
+    "fielding": 65
+  },
+  {
+    "name": "Shreyas Gopal",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 50,
+    "bowling": 72,
+    "fielding": 68
+  },
+  {
+    "name": "Ramakrishna Ghosh",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 48,
+    "bowling": 68,
+    "fielding": 62
+  },
+  {
+    "name": "Akeal Hosein",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 45,
+    "bowling": 80,
+    "fielding": 70
+  },
+  {
+    "name": "Zak Foulkes",
+    "nationality": "New Zealand",
+    "role": "AR",
+    "batting": 45,
+    "bowling": 70,
+    "fielding": 65
+  },
+  {
+    "name": "Aman Khan",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 40,
+    "bowling": 55,
+    "fielding": 60
+  },
+  {
+    "name": "Nathan Ellis",
+    "nationality": "Australia",
+    "role": "BOWL",
+    "batting": 35,
+    "bowling": 78,
+    "fielding": 72
+  },
+  {
+    "name": "Matt Henry",
+    "nationality": "New Zealand",
+    "role": "BOWL",
+    "batting": 30,
+    "bowling": 77,
+    "fielding": 68
+  },
+  {
+    "name": "Khaleel Ahmed",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 82,
+    "fielding": 65
+  },
+  {
+    "name": "Rahul Chahar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 80,
+    "fielding": 70
+  },
+  {
+    "name": "Anshul Kamboj",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 72,
+    "fielding": 65
+  },
+  {
+    "name": "Noor Ahmad",
+    "nationality": "Afghanistan",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 84,
+    "fielding": 68
+  },
+  {
+    "name": "Mukesh Choudhary",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 70,
+    "fielding": 62
+  },
+  {
+    "name": "Gurjapneet Singh",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 68,
+    "fielding": 60
+  }
+]

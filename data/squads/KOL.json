@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Ajinkya Rahane",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 80,
+    "bowling": 15,
+    "fielding": 78
+  },
+  {
+    "name": "Finn Allen",
+    "nationality": "New Zealand",
+    "role": "WK",
+    "batting": 75,
+    "bowling": 10,
+    "fielding": 75
+  },
+  {
+    "name": "Tim Seifert",
+    "nationality": "New Zealand",
+    "role": "WK",
+    "batting": 70,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Tejasvi Singh",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 55,
+    "bowling": 10,
+    "fielding": 68
+  },
+  {
+    "name": "Rinku Singh",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 82,
+    "bowling": 20,
+    "fielding": 75
+  },
+  {
+    "name": "Manish Pandey",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 75,
+    "bowling": 15,
+    "fielding": 80
+  },
+  {
+    "name": "Rahul Tripathi",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 74,
+    "bowling": 15,
+    "fielding": 72
+  },
+  {
+    "name": "Angkrish Raghuvanshi",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 62,
+    "bowling": 15,
+    "fielding": 65
+  },
+  {
+    "name": "Daksh Kamra",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 45,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Sarthak Ranjan",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 42,
+    "bowling": 10,
+    "fielding": 52
+  },
+  {
+    "name": "Cameron Green",
+    "nationality": "Australia",
+    "role": "AR",
+    "batting": 78,
+    "bowling": 75,
+    "fielding": 82
+  },
+  {
+    "name": "Rovman Powell",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 72,
+    "bowling": 35,
+    "fielding": 72
+  },
+  {
+    "name": "Rachin Ravindra",
+    "nationality": "New Zealand",
+    "role": "AR",
+    "batting": 72,
+    "bowling": 55,
+    "fielding": 75
+  },
+  {
+    "name": "Sunil Narine",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 68,
+    "bowling": 85,
+    "fielding": 78
+  },
+  {
+    "name": "Ramandeep Singh",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 60,
+    "bowling": 55,
+    "fielding": 70
+  },
+  {
+    "name": "Anukul Roy",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 40,
+    "bowling": 68,
+    "fielding": 62
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 86,
+    "fielding": 65
+  },
+  {
+    "name": "Harshit Rana",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 78,
+    "fielding": 62
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "nationality": "Bangladesh",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 82,
+    "fielding": 62
+  },
+  {
+    "name": "Prashant Solanki",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 62,
+    "fielding": 55
+  },
+  {
+    "name": "Umran Malik",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 76,
+    "fielding": 58
+  },
+  {
+    "name": "Vaibhav Arora",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 72,
+    "fielding": 60
+  },
+  {
+    "name": "Akash Deep",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 75,
+    "fielding": 60
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "nationality": "Sri Lanka",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 85,
+    "fielding": 60
+  },
+  {
+    "name": "Kartik Tyagi",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 68,
+    "fielding": 58
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Pat Cummins",
+    "nationality": "Australia",
+    "role": "AR",
+    "batting": 50,
+    "bowling": 90,
+    "fielding": 78
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "nationality": "South Africa",
+    "role": "WK",
+    "batting": 85,
+    "bowling": 10,
+    "fielding": 80
+  },
+  {
+    "name": "Ishan Kishan",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 78,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Salil Arora",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 52,
+    "bowling": 10,
+    "fielding": 62
+  },
+  {
+    "name": "Travis Head",
+    "nationality": "Australia",
+    "role": "BAT",
+    "batting": 86,
+    "bowling": 35,
+    "fielding": 78
+  },
+  {
+    "name": "Aniket Verma",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 48,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Ravichandran Smaran",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 45,
+    "bowling": 10,
+    "fielding": 52
+  },
+  {
+    "name": "Harsh Dubey",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 42,
+    "bowling": 15,
+    "fielding": 50
+  },
+  {
+    "name": "Abhishek Sharma",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 78,
+    "bowling": 45,
+    "fielding": 72
+  },
+  {
+    "name": "Liam Livingstone",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 78,
+    "bowling": 60,
+    "fielding": 75
+  },
+  {
+    "name": "Kamindu Mendis",
+    "nationality": "Sri Lanka",
+    "role": "AR",
+    "batting": 72,
+    "bowling": 55,
+    "fielding": 70
+  },
+  {
+    "name": "Nitish Kumar Reddy",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 70,
+    "bowling": 65,
+    "fielding": 72
+  },
+  {
+    "name": "Jack Edwards",
+    "nationality": "Australia",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 58,
+    "fielding": 65
+  },
+  {
+    "name": "Brydon Carse",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 48,
+    "bowling": 78,
+    "fielding": 68
+  },
+  {
+    "name": "Shivang Kumar",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 40,
+    "bowling": 52,
+    "fielding": 55
+  },
+  {
+    "name": "Praful Hinge",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 35,
+    "bowling": 48,
+    "fielding": 52
+  },
+  {
+    "name": "Harshal Patel",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 35,
+    "bowling": 82,
+    "fielding": 68
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 28,
+    "bowling": 76,
+    "fielding": 62
+  },
+  {
+    "name": "Zeeshan Ansari",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 65,
+    "fielding": 58
+  },
+  {
+    "name": "Shivam Mavi",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 72,
+    "fielding": 60
+  },
+  {
+    "name": "Eshan Malinga",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 62,
+    "fielding": 55
+  },
+  {
+    "name": "Sakib Hussain",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 55,
+    "fielding": 50
+  },
+  {
+    "name": "Omkar Tarmale",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 52,
+    "fielding": 48
+  },
+  {
+    "name": "Amit Kumar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 50,
+    "fielding": 45
+  },
+  {
+    "name": "Krains Fuletra",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 48,
+    "fielding": 45
+  }
+]

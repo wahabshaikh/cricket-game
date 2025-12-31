@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Shubman Gill",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 90,
+    "bowling": 25,
+    "fielding": 85
+  },
+  {
+    "name": "Jos Buttler",
+    "nationality": "England",
+    "role": "WK",
+    "batting": 88,
+    "bowling": 10,
+    "fielding": 82
+  },
+  {
+    "name": "Tom Banton",
+    "nationality": "England",
+    "role": "WK",
+    "batting": 68,
+    "bowling": 10,
+    "fielding": 70
+  },
+  {
+    "name": "Kumar Kushagra",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 58,
+    "bowling": 10,
+    "fielding": 68
+  },
+  {
+    "name": "Anuj Rawat",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 55,
+    "bowling": 10,
+    "fielding": 65
+  },
+  {
+    "name": "Sai Sudharsan",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 78,
+    "bowling": 15,
+    "fielding": 75
+  },
+  {
+    "name": "Shahrukh Khan",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 72,
+    "bowling": 20,
+    "fielding": 68
+  },
+  {
+    "name": "Glenn Phillips",
+    "nationality": "New Zealand",
+    "role": "AR",
+    "batting": 75,
+    "bowling": 45,
+    "fielding": 82
+  },
+  {
+    "name": "Rahul Tewatia",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 68,
+    "bowling": 65,
+    "fielding": 70
+  },
+  {
+    "name": "Jason Holder",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 58,
+    "bowling": 80,
+    "fielding": 75
+  },
+  {
+    "name": "Washington Sundar",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 78,
+    "fielding": 72
+  },
+  {
+    "name": "Nishant Sindhu",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 42,
+    "bowling": 58,
+    "fielding": 55
+  },
+  {
+    "name": "Jayant Yadav",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 40,
+    "bowling": 68,
+    "fielding": 60
+  },
+  {
+    "name": "Arshad Khan",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 38,
+    "bowling": 55,
+    "fielding": 52
+  },
+  {
+    "name": "Gurnoor Brar",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 35,
+    "bowling": 52,
+    "fielding": 50
+  },
+  {
+    "name": "Rashid Khan",
+    "nationality": "Afghanistan",
+    "role": "BOWL",
+    "batting": 55,
+    "bowling": 92,
+    "fielding": 82
+  },
+  {
+    "name": "Kagiso Rabada",
+    "nationality": "South Africa",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 90,
+    "fielding": 68
+  },
+  {
+    "name": "Sai Kishore",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 22,
+    "bowling": 74,
+    "fielding": 62
+  },
+  {
+    "name": "Mohammed Siraj",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 84,
+    "fielding": 65
+  },
+  {
+    "name": "Manav Suthar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 65,
+    "fielding": 55
+  },
+  {
+    "name": "Prasidh Krishna",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 80,
+    "fielding": 60
+  },
+  {
+    "name": "Ishant Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 74,
+    "fielding": 58
+  },
+  {
+    "name": "Luke Wood",
+    "nationality": "England",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 70,
+    "fielding": 55
+  },
+  {
+    "name": "Ashok Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 68,
+    "fielding": 52
+  },
+  {
+    "name": "Prithvi Raj Yarra",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 55,
+    "fielding": 48
+  }
+]

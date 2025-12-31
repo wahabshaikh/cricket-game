@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Rishabh Pant",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 86,
+    "bowling": 10,
+    "fielding": 82
+  },
+  {
+    "name": "Nicholas Pooran",
+    "nationality": "West Indies",
+    "role": "WK",
+    "batting": 82,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Josh Inglis",
+    "nationality": "Australia",
+    "role": "WK",
+    "batting": 75,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Aiden Markram",
+    "nationality": "South Africa",
+    "role": "BAT",
+    "batting": 78,
+    "bowling": 45,
+    "fielding": 80
+  },
+  {
+    "name": "Ayush Badoni",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 68,
+    "bowling": 25,
+    "fielding": 68
+  },
+  {
+    "name": "Abdul Samad",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 65,
+    "bowling": 20,
+    "fielding": 62
+  },
+  {
+    "name": "Matthew Breetzke",
+    "nationality": "South Africa",
+    "role": "BAT",
+    "batting": 55,
+    "bowling": 15,
+    "fielding": 58
+  },
+  {
+    "name": "Himmat Singh",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 52,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Akshat Raghuwanshi",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 48,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Mukul Choudhary",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 45,
+    "bowling": 10,
+    "fielding": 52
+  },
+  {
+    "name": "Naman Tiwari",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 42,
+    "bowling": 15,
+    "fielding": 50
+  },
+  {
+    "name": "Mitchell Marsh",
+    "nationality": "Australia",
+    "role": "AR",
+    "batting": 78,
+    "bowling": 65,
+    "fielding": 78
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 58,
+    "bowling": 72,
+    "fielding": 68
+  },
+  {
+    "name": "Wanindu Hasaranga",
+    "nationality": "Sri Lanka",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 85,
+    "fielding": 72
+  },
+  {
+    "name": "Arshin Kulkarni",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 50,
+    "bowling": 48,
+    "fielding": 58
+  },
+  {
+    "name": "Digvesh Rathi",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 42,
+    "bowling": 55,
+    "fielding": 52
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 35,
+    "bowling": 62,
+    "fielding": 52
+  },
+  {
+    "name": "Mohammed Shami",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 88,
+    "fielding": 62
+  },
+  {
+    "name": "Manimaran Siddharth",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 68,
+    "fielding": 55
+  },
+  {
+    "name": "Avesh Khan",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 78,
+    "fielding": 58
+  },
+  {
+    "name": "Anrich Nortje",
+    "nationality": "South Africa",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 85,
+    "fielding": 58
+  },
+  {
+    "name": "Mohsin Khan",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 72,
+    "fielding": 55
+  },
+  {
+    "name": "Mayank Yadav",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 82,
+    "fielding": 55
+  },
+  {
+    "name": "Prince Yadav",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 58,
+    "fielding": 50
+  },
+  {
+    "name": "Akash Singh",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 55,
+    "fielding": 48
+  }
+]

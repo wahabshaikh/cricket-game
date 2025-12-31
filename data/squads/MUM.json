@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Hardik Pandya",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 82,
+    "bowling": 75,
+    "fielding": 80
+  },
+  {
+    "name": "Quinton de Kock",
+    "nationality": "South Africa",
+    "role": "WK",
+    "batting": 84,
+    "bowling": 10,
+    "fielding": 82
+  },
+  {
+    "name": "Ryan Rickelton",
+    "nationality": "South Africa",
+    "role": "WK",
+    "batting": 72,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Robin Minz",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 58,
+    "bowling": 10,
+    "fielding": 72
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 92,
+    "bowling": 15,
+    "fielding": 88
+  },
+  {
+    "name": "Rohit Sharma",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 90,
+    "bowling": 20,
+    "fielding": 82
+  },
+  {
+    "name": "Tilak Varma",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 80,
+    "bowling": 25,
+    "fielding": 78
+  },
+  {
+    "name": "Naman Dhir",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 55,
+    "bowling": 20,
+    "fielding": 65
+  },
+  {
+    "name": "Danish Malewar",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 45,
+    "bowling": 15,
+    "fielding": 55
+  },
+  {
+    "name": "Mayank Rawat",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 40,
+    "bowling": 10,
+    "fielding": 52
+  },
+  {
+    "name": "Will Jacks",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 75,
+    "bowling": 55,
+    "fielding": 75
+  },
+  {
+    "name": "Sherfane Rutherford",
+    "nationality": "West Indies",
+    "role": "AR",
+    "batting": 70,
+    "bowling": 30,
+    "fielding": 72
+  },
+  {
+    "name": "Mitchell Santner",
+    "nationality": "New Zealand",
+    "role": "AR",
+    "batting": 55,
+    "bowling": 78,
+    "fielding": 75
+  },
+  {
+    "name": "Raj Bawa",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 52,
+    "bowling": 62,
+    "fielding": 65
+  },
+  {
+    "name": "Shardul Thakur",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 50,
+    "bowling": 78,
+    "fielding": 70
+  },
+  {
+    "name": "Corbin Bosch",
+    "nationality": "South Africa",
+    "role": "AR",
+    "batting": 48,
+    "bowling": 70,
+    "fielding": 65
+  },
+  {
+    "name": "Atharva Ankolekar",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 35,
+    "bowling": 60,
+    "fielding": 55
+  },
+  {
+    "name": "Deepak Chahar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 35,
+    "bowling": 80,
+    "fielding": 68
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 96,
+    "fielding": 75
+  },
+  {
+    "name": "Trent Boult",
+    "nationality": "New Zealand",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 88,
+    "fielding": 70
+  },
+  {
+    "name": "Raghu Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 58,
+    "fielding": 55
+  },
+  {
+    "name": "Allah Ghazanfar",
+    "nationality": "Afghanistan",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 72,
+    "fielding": 60
+  },
+  {
+    "name": "Mayank Markande",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 65,
+    "fielding": 58
+  },
+  {
+    "name": "Ashwani Kumar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 58,
+    "fielding": 55
+  },
+  {
+    "name": "Mohammed Izhar",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 55,
+    "fielding": 50
+  }
+]

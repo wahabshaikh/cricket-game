@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Yashasvi Jaiswal",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 88,
+    "bowling": 25,
+    "fielding": 82
+  },
+  {
+    "name": "Dhruv Jurel",
+    "nationality": "India",
+    "role": "WK",
+    "batting": 72,
+    "bowling": 10,
+    "fielding": 78
+  },
+  {
+    "name": "Donovan Ferreira",
+    "nationality": "South Africa",
+    "role": "WK",
+    "batting": 58,
+    "bowling": 10,
+    "fielding": 65
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "nationality": "West Indies",
+    "role": "BAT",
+    "batting": 78,
+    "bowling": 15,
+    "fielding": 70
+  },
+  {
+    "name": "Vaibhav Suryavanshi",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 60,
+    "bowling": 15,
+    "fielding": 62
+  },
+  {
+    "name": "Shubham Dubey",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 55,
+    "bowling": 20,
+    "fielding": 58
+  },
+  {
+    "name": "Ravi Singh",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 42,
+    "bowling": 15,
+    "fielding": 50
+  },
+  {
+    "name": "Aman Rao",
+    "nationality": "India",
+    "role": "BAT",
+    "batting": 40,
+    "bowling": 10,
+    "fielding": 48
+  },
+  {
+    "name": "Riyan Parag",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 75,
+    "bowling": 55,
+    "fielding": 78
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 75,
+    "bowling": 85,
+    "fielding": 92
+  },
+  {
+    "name": "Sam Curran",
+    "nationality": "England",
+    "role": "AR",
+    "batting": 68,
+    "bowling": 78,
+    "fielding": 75
+  },
+  {
+    "name": "Lhuan-Dre Pretorius",
+    "nationality": "South Africa",
+    "role": "AR",
+    "batting": 52,
+    "bowling": 55,
+    "fielding": 60
+  },
+  {
+    "name": "Yudhvir Charak",
+    "nationality": "India",
+    "role": "AR",
+    "batting": 48,
+    "bowling": 58,
+    "fielding": 55
+  },
+  {
+    "name": "Jofra Archer",
+    "nationality": "England",
+    "role": "BOWL",
+    "batting": 30,
+    "bowling": 88,
+    "fielding": 68
+  },
+  {
+    "name": "Sandeep Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 76,
+    "fielding": 62
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 25,
+    "bowling": 82,
+    "fielding": 68
+  },
+  {
+    "name": "Tushar Deshpande",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 75,
+    "fielding": 60
+  },
+  {
+    "name": "Adam Milne",
+    "nationality": "New Zealand",
+    "role": "BOWL",
+    "batting": 20,
+    "bowling": 76,
+    "fielding": 60
+  },
+  {
+    "name": "Nandre Burger",
+    "nationality": "South Africa",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 74,
+    "fielding": 58
+  },
+  {
+    "name": "Kuldeep Sen",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 18,
+    "bowling": 70,
+    "fielding": 55
+  },
+  {
+    "name": "Kwena Maphaka",
+    "nationality": "South Africa",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 72,
+    "fielding": 55
+  },
+  {
+    "name": "Sushant Mishra",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 15,
+    "bowling": 58,
+    "fielding": 50
+  },
+  {
+    "name": "Yash Raj Punja",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 52,
+    "fielding": 48
+  },
+  {
+    "name": "Vignesh Puthur",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 50,
+    "fielding": 48
+  },
+  {
+    "name": "Brijesh Sharma",
+    "nationality": "India",
+    "role": "BOWL",
+    "batting": 12,
+    "bowling": 48,
+    "fielding": 45
+  }
+]
