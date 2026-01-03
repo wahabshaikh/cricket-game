@@ -10,6 +10,11 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        display: ["var(--font-display)", "Impact", "sans-serif"],
+        body: ["var(--font-body)", "Georgia", "serif"],
+        mono: ["var(--font-mono)", "monospace"],
+      },
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
@@ -44,6 +49,19 @@ export default {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
+        // Noir Stadium palette
+        noir: {
+          black: "hsl(var(--noir-black))",
+          charcoal: "hsl(var(--noir-charcoal))",
+          steel: "hsl(var(--noir-steel))",
+          smoke: "hsl(var(--noir-smoke))",
+          silver: "hsl(var(--noir-silver))",
+          white: "hsl(var(--noir-white))",
+        },
+        gold: "hsl(var(--accent-gold))",
+        ember: "hsl(var(--accent-ember))",
+        jade: "hsl(var(--accent-jade))",
+        crimson: "hsl(var(--accent-crimson))",
         chart: {
           "1": "hsl(var(--chart-1))",
           "2": "hsl(var(--chart-2))",
@@ -57,7 +75,48 @@ export default {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+      animation: {
+        "fade-slide-up": "fadeSlideUp 0.6s ease-out forwards",
+        "fade-slide-in": "fadeSlideIn 0.5s ease-out forwards",
+        "scale-in": "scaleIn 0.4s ease-out forwards",
+        "pulse-glow": "pulse-glow 2s ease-in-out infinite",
+        "sold-burst": "soldBurst 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards",
+        shimmer: "shimmer 3s infinite",
+        float: "float 3s ease-in-out infinite",
+      },
+      keyframes: {
+        fadeSlideUp: {
+          from: { opacity: "0", transform: "translateY(30px)" },
+          to: { opacity: "1", transform: "translateY(0)" },
+        },
+        fadeSlideIn: {
+          from: { opacity: "0", transform: "translateX(-20px)" },
+          to: { opacity: "1", transform: "translateX(0)" },
+        },
+        scaleIn: {
+          from: { opacity: "0", transform: "scale(0.9)" },
+          to: { opacity: "1", transform: "scale(1)" },
+        },
+        "pulse-glow": {
+          "0%, 100%": { opacity: "1", boxShadow: "0 0 20px currentColor" },
+          "50%": { opacity: "0.8", boxShadow: "0 0 40px currentColor" },
+        },
+        soldBurst: {
+          "0%": { transform: "scale(0.5)", opacity: "0" },
+          "50%": { transform: "scale(1.1)", opacity: "1" },
+          "100%": { transform: "scale(1)", opacity: "1" },
+        },
+        shimmer: {
+          "0%": { backgroundPosition: "-200% 0" },
+          "100%": { backgroundPosition: "200% 0" },
+        },
+        float: {
+          "0%, 100%": { transform: "translateY(0)" },
+          "50%": { transform: "translateY(-10px)" },
+        },
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
 } satisfies Config;
+

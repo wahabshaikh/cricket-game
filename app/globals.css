@@ -4,57 +4,41 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
-    --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
-    --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
-    --accent-foreground: 0 0% 9%;
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
-    --chart-1: 12 76% 61%;
-    --chart-2: 173 58% 39%;
-    --chart-3: 197 37% 24%;
-    --chart-4: 43 74% 66%;
-    --chart-5: 27 87% 67%;
-    --radius: 0.5rem;
-  }
-  .dark {
-    --background: 0 0% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 0 0% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 0 0% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
-    --primary-foreground: 0 0% 9%;
-    --secondary: 0 0% 14.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 0 0% 14.9%;
-    --muted-foreground: 0 0% 63.9%;
-    --accent: 0 0% 14.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 14.9%;
-    --input: 0 0% 14.9%;
-    --ring: 0 0% 83.1%;
-    --chart-1: 220 70% 50%;
-    --chart-2: 160 60% 45%;
-    --chart-3: 30 80% 55%;
-    --chart-4: 280 65% 60%;
-    --chart-5: 340 75% 55%;
+    /* Noir Stadium Color Palette */
+    --noir-black: 220 20% 4%;
+    --noir-charcoal: 220 15% 10%;
+    --noir-steel: 220 10% 20%;
+    --noir-smoke: 220 8% 40%;
+    --noir-silver: 220 5% 70%;
+    --noir-white: 60 10% 95%;
+
+    /* Vivid Accents */
+    --accent-gold: 45 90% 55%;
+    --accent-ember: 15 80% 50%;
+    --accent-jade: 160 60% 45%;
+    --accent-crimson: 0 70% 55%;
+
+    /* Shadcn mapping to our palette */
+    --background: var(--noir-black);
+    --foreground: var(--noir-white);
+    --card: var(--noir-charcoal);
+    --card-foreground: var(--noir-white);
+    --popover: var(--noir-charcoal);
+    --popover-foreground: var(--noir-white);
+    --primary: var(--accent-gold);
+    --primary-foreground: var(--noir-black);
+    --secondary: var(--noir-steel);
+    --secondary-foreground: var(--noir-silver);
+    --muted: var(--noir-steel);
+    --muted-foreground: var(--noir-smoke);
+    --accent: var(--noir-steel);
+    --accent-foreground: var(--noir-silver);
+    --destructive: var(--accent-crimson);
+    --destructive-foreground: var(--noir-white);
+    --border: var(--noir-steel);
+    --input: var(--noir-steel);
+    --ring: var(--accent-gold);
+    --radius: 0.75rem;
   }
 }
 
@@ -62,7 +46,272 @@
   * {
     @apply border-border;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     @apply bg-background text-foreground;
+    font-family: var(--font-body), Georgia, serif;
+    background: hsl(var(--noir-black));
   }
+
+  /* Typography utilities */
+  .font-display {
+    font-family: var(--font-display), Impact, sans-serif;
+    letter-spacing: 0.05em;
+  }
+
+  .font-body {
+    font-family: var(--font-body), Georgia, serif;
+  }
+
+  .font-mono {
+    font-family: var(--font-mono), monospace;
+  }
+}
+
+@layer components {
+  /* Film grain noise overlay */
+  .noise-overlay {
+    position: relative;
+  }
+
+  .noise-overlay::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    opacity: 0.03;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  /* Stadium vignette overlay */
+  .vignette {
+    position: relative;
+  }
+
+  .vignette::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(
+      ellipse at center,
+      transparent 0%,
+      transparent 40%,
+      hsl(220 20% 4% / 0.6) 100%
+    );
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Glass card effect */
+  .glass-card {
+    background: hsl(var(--noir-charcoal) / 0.8);
+    backdrop-filter: blur(12px);
+    border: 1px solid hsl(var(--noir-steel) / 0.5);
+  }
+
+  /* Glow effects */
+  .glow-gold {
+    box-shadow: 0 0 30px hsl(var(--accent-gold) / 0.3),
+                0 0 60px hsl(var(--accent-gold) / 0.1);
+  }
+
+  .glow-ember {
+    box-shadow: 0 0 30px hsl(var(--accent-ember) / 0.3),
+                0 0 60px hsl(var(--accent-ember) / 0.1);
+  }
+
+  .glow-jade {
+    box-shadow: 0 0 30px hsl(var(--accent-jade) / 0.3),
+                0 0 60px hsl(var(--accent-jade) / 0.1);
+  }
+
+  /* Text glow */
+  .text-glow-gold {
+    text-shadow: 0 0 20px hsl(var(--accent-gold) / 0.5),
+                 0 0 40px hsl(var(--accent-gold) / 0.3);
+  }
+
+  /* Gradient text */
+  .gradient-text-gold {
+    background: linear-gradient(
+      135deg,
+      hsl(45 100% 70%) 0%,
+      hsl(35 90% 55%) 50%,
+      hsl(25 80% 50%) 100%
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Stadium pattern background */
+  .stadium-pattern {
+    background-image: 
+      linear-gradient(90deg, hsl(var(--noir-steel) / 0.05) 1px, transparent 1px),
+      linear-gradient(hsl(var(--noir-steel) / 0.05) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  /* Auction card hover effect */
+  .auction-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .auction-card:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 20px 40px hsl(var(--noir-black) / 0.5),
+                0 0 0 1px hsl(var(--accent-gold) / 0.2);
+  }
+
+  /* Circular progress ring */
+  .progress-ring {
+    transform: rotate(-90deg);
+  }
+
+  .progress-ring circle {
+    transition: stroke-dashoffset 0.1s linear;
+  }
+
+  /* Slot machine number animation */
+  .slot-number {
+    display: inline-block;
+    transition: transform 0.2s ease-out;
+  }
+
+  .slot-number.changing {
+    animation: slotRoll 0.3s ease-out;
+  }
+}
+
+@layer utilities {
+  /* Animation delays for staggered reveals */
+  .delay-100 { animation-delay: 100ms; }
+  .delay-200 { animation-delay: 200ms; }
+  .delay-300 { animation-delay: 300ms; }
+  .delay-400 { animation-delay: 400ms; }
+  .delay-500 { animation-delay: 500ms; }
+  .delay-600 { animation-delay: 600ms; }
+  .delay-700 { animation-delay: 700ms; }
+  .delay-800 { animation-delay: 800ms; }
+  .delay-900 { animation-delay: 900ms; }
+  .delay-1000 { animation-delay: 1000ms; }
+}
+
+/* Keyframe animations */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 1;
+    box-shadow: 0 0 20px currentColor;
+  }
+  50% {
+    opacity: 0.8;
+    box-shadow: 0 0 40px currentColor;
+  }
+}
+
+@keyframes slotRoll {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(0); }
+}
+
+@keyframes soldBurst {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Animation utility classes */
+.animate-fade-slide-up {
+  animation: fadeSlideUp 0.6s ease-out forwards;
+  opacity: 0;
+}
+
+.animate-fade-slide-in {
+  animation: fadeSlideIn 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-sold-burst {
+  animation: soldBurst 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+.animate-shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    hsl(var(--accent-gold) / 0.3) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 3s infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
 }
